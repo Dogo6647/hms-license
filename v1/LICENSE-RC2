@@ -1,0 +1,63 @@
+HTLabs Modifiable Software (HMS) License v1
+Partially based on the zLib license, but containing significant 
+modifications to address redistribution and commercial use.
+
+(C) [Software release date] [Author name or pseudonym]
+
+This software is provided "as-is", without any express or implied
+warranty. In no event will the authors be held liable for any damages
+arising from the use of this software.
+
+
+TERMINOLOGY
+- Modifying entity: The individual or group of individuals modifying
+  the original source code.
+- Modified software: The software derived from the original authors'
+  version of the software.
+- Altered source versions: Used as an alias of "Modified software".
+- Original author(s): Refers to the individual or entity that first created 
+  and released the software under this license. This corresponds to the
+  author stated in the above copyright notice, which may not be altered
+  on modified software and/or its source.
+- Commercial distribution: The act of distributing the software individually
+  while requiring monetary payment to access it. This does not include
+  "bundling" the software within other software.
+
+
+CONDITIONS OF DISTRIBUTION
+Private modifications to this software are fully unrestricted, as long as
+individual usage of the software is not granted beyond the modifying 
+entity. This means the modifying entity can use the privately-modified 
+software source to perform their own operations with no restrictions
+as long as usage of the modified software is kept "behind-the-scenes" and
+not distributed per se as individual source code or within other software.
+
+Public redistribution of this software, including within all other software, 
+however, is subject to the following restrictions:
+
+1. The origin of this software must not be misrepresented; the original
+   authors reserve the right to claim it as their own. Altered source 
+   versions must credit the original authors by keeping the above copyright
+   notice complete and unaltered with NO exceptions.
+2. Altered source versions must be plainly marked as such, and must not be
+   misrepresented as being the original software.
+3. Commercial distribution (as defined above) is strictly reserved to the 
+   original authors and versions first distributed by them. Modified versions
+   of the original software NOT created and released by the original authors 
+   are not allowed to be commercially distributed as standalone products by any
+   entity, including the original authors. This does not prohibit the software 
+   from being included or bundled within larger commercial software.
+4. All modified software distributed by modifying entities must include its 
+   complete source code and be licensed under the same terms as this license, 
+   including this license file in the source.
+5. Use of trademarks belonging to the original authors in modified software 
+   is subject to the original authors' decision; while this license does not
+   strictly prohibit usage of said trademarks, the original authors reserve
+   the right to prohibit usage if they desire to do so via a written notice.
+
+
+VIOLATION NOTICE
+Violation of any condition in this license automatically invalidates the 
+rights granted herein. On invalidation, the violating entity must cease all 
+public distribution of the modified software.
+
