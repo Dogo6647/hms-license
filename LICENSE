@@ -38,19 +38,22 @@ however, is subject to the following restrictions:
 1. The origin of this software must not be misrepresented; the original
    authors reserve the right to claim it as their own. Altered source 
    versions must credit the original authors by keeping the above copyright
-   notice complete and unaltered with no exceptions.
+   notice complete and unaltered with NO exceptions.
 2. Altered source versions must be plainly marked as such, and must not be
    misrepresented as being the original software.
-3. Commercial distribution is strictly reserved to the original authors and
-   versions first distributed by them. Modified versions of the original
-   software not created and released by the original authors are not allowed 
-   to be commercially distributed by any entity, including the original 
-   authors.
+3. Commercial distribution (as defined above) is strictly reserved to the 
+   original authors and versions first distributed by them. Modified versions
+   of the original software NOT created and released by the original authors 
+   are not allowed to be commercially distributed as standalone products by any
+   entity, including the original authors. This does not prohibit the software 
+   from being included or bundled within larger commercial software.
 4. All modified software distributed by modifying entities must include its 
    complete source code and be licensed under the same terms as this license, 
    including this license file in the source.
 5. Use of trademarks belonging to the original authors in modified software 
-   is subject to the original authors' decision.
+   is subject to the original authors' decision; while this license does not
+   strictly prohibit usage of said trademarks, the original authors reserve
+   the right to prohibit usage if they desire to do so via a written notice.
 
 
 VIOLATION NOTICE
